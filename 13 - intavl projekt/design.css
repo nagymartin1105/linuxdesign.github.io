@@ -74,16 +74,6 @@ body {
   top: 400px;
 }
 
-.uitext{
-  text-align: center;
-  color: white;
-  width: 600px;
-  height: 200px;
-  position: absolute;
-  left: 50px;
-  top: 300px;
-}
-
 
 
 #tuxcreation {
@@ -174,4 +164,44 @@ div.gallery {
   
   div.scrollmenu a:hover {
     background-color: #777;
+  }
+
+  #ui1 {
+      text-align: center;
+      color: white;
+      width: 600px;
+      height: 200px;
+      position: absolute;
+      left: 650px;
+      top: 150px;
+    }
+
+  #ui2 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+  }
+
+  #ui3 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 650px;
+    top: 790px;
+  }
+
+  #ui4 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 125px;
+    top: 300px;
   }
